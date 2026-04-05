@@ -5,7 +5,9 @@ Authors: Joseph Richards and Shammika Miller
 Date Created: Sunday, April 5th, 2026
 Course: ITT103- Programming Techniques
 GitHub Public URL to code: 
+
 https://github.com/Joseph-sham/Py__Wizards-POS-ITT103-SP2026
+
 https://github.com/Shammika-Miller-Joseph-Richards/Py___Wizards-POS-ITT103-SP2026
 
 
